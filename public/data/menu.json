@@ -1,0 +1,70 @@
+{
+  "primaryMenu": [
+    {
+      "id": "1",
+      "text": "Articles",
+      "url": "/post"
+    },
+    {
+      "id": "2",
+      "text": "Spots",
+      "url": "/spot"
+    },
+    {
+      "id": "3",
+      "url": "https://play.google.com/store/apps/details?id=com.spotlit&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+      "text": "Get Spotlit on Google Play",
+      "img": "data:image/png;base64,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"
+    },
+    {
+      "id": "4",
+      "url": "https://apps.apple.com/us/app/spotlit/id1489946066?itsct=apps_box_badge&amp;itscg=30200",
+      "text": "Get Spotlit on the App Store",
+      "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAoCAQAAACf4/auAAAFSElEQVR42uWaIWwiTRTHV6zArEKt4S4YFA6LQpFgMHWYKsxhEBgMgiYIkuuXUIEhPZJCPnIGtwbTXIpZiUMg6AkMhoSvCcnvm7ybzAW27MG1kKadf3a6+2b29f1m3+4M2bV+le+felf9h9vHm6evvC/dPN0+9n/0v/wbs36X/pebpyxRrHeqKFkF3v9icKs4byKwU8qhiiD3Pt88vX9cQVZXuffZ6l1l30Q451CW3pXVf3i/927wXu7/sL79fBvBnEe3j9bN09sI5TxStNdHdI/j7H0gZJSS2Ad6KhINTb3igX5sykcBX3MwcIIRkNzTmmZGGw//wNl8RCKkNcb9Hz24eKqOMD0NcJwFsCKyF3gof2s0VZ3jnhEpEnzFUluOCAMshrSYkNfAEa4Z0yKCrWqfIQ6W2OoG2KbBmA4OUe6UfDK6pcuSJgpYzr3AIoXHiNzrAA8BBCYcOI1HlKnaEqq2mWAzpk1abRZrXFL4GriE+t80qBCVQWhzQRYPm6IBLtBRdYU6LgscVLvJgrFc4RUuSSZYTOSWm7wGsMMGGBH5I3CeDklGsj+X61qggkdVkObia6KBW1xINnRwGTJgwiVFalgkDHCdongf4OJLy2gHeGrqJQOR83JglwGXoQ+kNCPiZJmSxlF1nLQEeMmUFA0mOAHgS7o4tClSoEsET1nSjHGpGuC8JHqTagDYZUp0C9gnTZTK317hKDV8FowpE1MqM2bNinsunn2kDZTapOUoxZA74hJWV44bYm9JcOq+lhS19LW3cegyoCxnl/EoUDOeS3jUpE9d/FVNS0PJRsWv6zh3f38PJ5ixv7Sxzi77ZeeHA0eYEFaGRN7EMuLVgIuElTH2yde8kfMCjwgr6ZDZeqmUeUFALm2WAEwpYZ8LeBGCuwpxVwOg84IrOwfGNGnJXlesKZkjTgq8CQGehbibMsdn9dcJWQM6Bn6ql7I5oHVa4GUI8GbPxG6TAppUwExcMRrkcKnRUVsMSfstm7vlowsUzFGWCgnyDACfBgmxJqlzxzUZ06tBnBIdiStGTbW2yB4H7BNWSnuctYAUMWCoLWnZX7BRgiWpoG3r50gFmJDeCXEFrFkKRFHOUmebXGgAHgAuGek7Zw20jwFuEVYk8IBsFjrdx2xwDTC0cZRagG9sLWMbby1hfX3bdLgwmWRSmgQbFvLfXelZ0MAzWWM5zHVsDh6QOxw4S3hZBR8iElZD9spAyQDPsfWAzIC42GY7NuNF/3DY6IEt7ADXgAome/A0cFEvQ6GuW5NA92BgCSS8lAPnDIAmRaUa4JugBls9sgRtwWnMISstG1IGeLe3A8w0cN7cEAumohlwf8zS8pLwpI4GQlyzXZLmft2C2wEeGoSgOkB1C/huB3gaAB5QMSocA2yHLi6Lzw5Qi7hWDaiblI7o5eociD1rM9MaC1xzVAsAVxGLKAMMt4DzQNPEHyd6MLAoyXoPrkew9z2QMkcxYKaB4Q5XqQvcG1sXY9t5WI7Fj80FKzYmT0bYMqWt9UouwURANbAZvjU52WsBpeOAbXKsAFTt0TVTlU9w5GJsmG5ZxkBap/QUAFiQwNqxzcUmMk9XWLMBtZW0dQFsBKXAWtoxV9MAi+8lsJL2IfYxwCKZ0M30QIIi+WfdJKnsTPVpKhq4g0OJr5T0QAVsO8rIwqJNmThmQClT18dxKrSokTL9K5hBI0pJWjOhC4+TSeBCbOeWAN88fSRgRXv7eDr3MUn1MNv5X7V8tJdpDx/vdelHeiH+z3+9zx/vk4cP+FHL78+Wvv18j58tffvZf+hdff/0i/R/MGkG5jYIxogAAAAASUVORK5CYII="
+    }
+  ],
+  "socialNetworks": [
+    {
+      "href": "https://www.facebook.com/spotlitapp",
+      "icon": "icon-facebook"
+    },
+    {
+      "href": "https://instagram.com/spotlit_app",
+      "icon": "icon-instagram"
+    },
+    {
+      "href": "https://twitter.com/spotlitapp",
+      "icon": "icon-twitter"
+    },
+    {
+      "href": "https://www.linkedin.com/company/spotlit/about/",
+      "icon": "icon-linkedin"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "about spotlit",
+      "href": "https://www.linkedin.com/company/spotlit/about/"
+    },
+    {
+      "label": "meet the team",
+      "href": "https://www.linkedin.com/company/spotlit/people/"
+    },
+    {
+      "label": "jobs",
+      "href": "https://www.linkedin.com/company/spotlit/jobs/"
+    },
+    {
+      "label": "privacy policy",
+      "href": "/privacy-policy"
+    },
+    {
+      "label": "terms & conditions - mangopay",
+      "href": "/tc-mangopay"
+    },
+    {
+      "label": "terms & conditions",
+      "href": "/cgu"
+    }
+  ]
+}

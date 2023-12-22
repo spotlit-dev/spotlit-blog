@@ -1,0 +1,14 @@
+{
+  "ModuleArticleCommentListing": {
+    "comment": "{nbComment, plural, =0 {No Comment} =1 {One Comment} other {# Comments}}",
+    "review": "{nbComment, plural, =0 {No Review} =1 {One Review} other {# Reviews}}",
+    "no comment left": "No comment left"
+  },
+  "ItemDetailWithHero": {
+    "description": "Description",
+    "discover this spot": "Discover this Spot",
+    "links & contacts": "Links & Contacts",
+    "opening hours": "Opening Hours",
+    "address": "Address"
+  }
+}
